@@ -1,2 +1,2 @@
-# MATLAB-for-L1-adpative-control
-Tractor cart system control using L1 adaptive control in Matlab
+# MATLAB-for-MRAC-adpative-control
+Tractor cart system control using MRAC adaptive control in Matlab
